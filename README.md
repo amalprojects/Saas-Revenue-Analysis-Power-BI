@@ -51,6 +51,9 @@ Focus:
 Main finding:
 - Revenue increased while costs remained relatively stable, leading to stronger margins toward the end of the year.
 
+  <img width="1015" height="574" alt="image" src="https://github.com/user-attachments/assets/eaefefcc-c527-425e-a772-abcbef0aeb98" />
+
+
 ---
 
 ### 2. Customer & Plan Analysis
