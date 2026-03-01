@@ -69,6 +69,9 @@ Main findings:
 - Basic plans bring higher customer volume but lower value.
 - Growth appears to come from higher-value subscriptions rather than more customers.
 
+<img width="1017" height="575" alt="image" src="https://github.com/user-attachments/assets/e313b1c7-2ca5-4ed7-a5dd-de9a268d36b4" />
+
+
 ---
 
 ### 3. Marketing Funnel
