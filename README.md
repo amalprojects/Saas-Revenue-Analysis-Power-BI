@@ -29,6 +29,11 @@ The project combines several datasets:
 
 A date table was used to handle time-based analysis across the model.
 
+The Data Modelling structure implemented in power BI is shown below:
+
+<img width="1117" height="681" alt="image" src="https://github.com/user-attachments/assets/b9e8ccd4-ab6d-4a83-b650-4dd014610ab8" />
+
+
 ---
 
 ## Analysis Approach
