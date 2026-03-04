@@ -64,10 +64,56 @@ Focus:
 - Customer distribution by plan
 - ARPU (average revenue per user)
 
-Main findings:
-- Higher-tier plans drive most revenue.
-- Basic plans bring higher customer volume but lower value.
-- Growth appears to come from higher-value subscriptions rather than more customers.
+1. Clear Price–Volume Segmentation Across Plans
+   
+Basic & Pro → highest customer counts
+Business & Enterprise → highest revenue per customer (ARPU)
+This suggests a two-tier business model:
+
+-Volume tier: Basic / Pro plans drive user acquisition.
+-Value tier: Business / Enterprise plans drive revenue efficiency.
+
+Insight:
+Revenue growth is likely driven more by upselling customers to higher plans rather than simply acquiring more Basic users
+
+2. Enterprise Plan Has the Highest Customer Value
+
+Enterprise shows:
+Highest ARPU (~13.6K)
+Lowest customer count (~20)
+
+This indicates very high customer value but limited adoption.
+
+Insight:
+Enterprise customers generate disproportionately high revenue per account, suggesting potential growth through targeted enterprise sales or expansion strategies.
+
+3. Revenue Concentration in Mid-Tier Plans
+
+The revenue chart shows:
+-Business plan generates the highest revenue
+-Followed by Pro
+-Enterprise contributes less overall due to low customer count
+
+Insight:
+Business appears to be the optimal balance between price and adoption, making it the most commercially effective plan.
+
+| Plan       | Customers | ARPU      | Strategy Signal         |
+| ---------- | --------- | --------- | ----------------------- |
+| Basic      | High      | Low       | Entry-level acquisition |
+| Pro        | High      | Medium    | Core user base          |
+| Business   | Medium    | High      | Revenue driver          |
+| Enterprise | Low       | Very high | Premium niche           |
+
+Insight:
+The SaaS business likely follows a land-and-expand strategy, acquiring users through lower plans and monetizing through upgrades.
+
+Key Takeaway:
+
+-Revenue growth is driven primarily by mid-tier plans (Business) that balance customer volume and ARPU, while Enterprise   customers generate the highest value per account but remain underrepresented.
+-Strategic growth opportunities likely lie in:
+-Upselling Pro customers to Business
+-Expanding Enterprise adoption
+-Maintaining Basic plan as an acquisition channel
 
 <img width="1014" height="571" alt="image" src="https://github.com/user-attachments/assets/52520b39-325d-4158-b59a-6e079179480d" />
 
