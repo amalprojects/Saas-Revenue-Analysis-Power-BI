@@ -64,7 +64,7 @@ Focus:
 - Customer distribution by plan
 - ARPU (average revenue per user)
 
-1. Clear Price–Volume Segmentation Across Plans
+### Clear Price–Volume Segmentation Across Plans
    
 Basic & Pro → highest customer counts
 Business & Enterprise → highest revenue per customer (ARPU)
@@ -76,7 +76,7 @@ This suggests a two-tier business model:
 Insight:
 Revenue growth is likely driven more by upselling customers to higher plans rather than simply acquiring more Basic users
 
-2. Enterprise Plan Has the Highest Customer Value
+### Enterprise Plan Has the Highest Customer Value
 
 Enterprise shows:
 Highest ARPU (~13.6K)
@@ -87,7 +87,7 @@ This indicates very high customer value but limited adoption.
 Insight:
 Enterprise customers generate disproportionately high revenue per account, suggesting potential growth through targeted enterprise sales or expansion strategies.
 
-3. Revenue Concentration in Mid-Tier Plans
+### Revenue Concentration in Mid-Tier Plans
 
 The revenue chart shows:
 -Business plan generates the highest revenue
