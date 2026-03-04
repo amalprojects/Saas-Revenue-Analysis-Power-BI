@@ -87,7 +87,8 @@ Main findings:
 - Lead volume does not always move with spend.
 - Subscription numbers remain fairly stable, suggesting consistent conversion behavior.
 
-<img width="1016" height="573" alt="image" src="https://github.com/user-attachments/assets/624a9f59-1872-4402-acc4-ab720e897393" />
+<img width="1020" height="573" alt="image" src="https://github.com/user-attachments/assets/7dd2f38e-ea07-46d8-9e94-66b988ad9c8a" />
+
 
 
 ---
