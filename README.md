@@ -69,7 +69,8 @@ Main findings:
 - Basic plans bring higher customer volume but lower value.
 - Growth appears to come from higher-value subscriptions rather than more customers.
 
-<img width="1017" height="575" alt="image" src="https://github.com/user-attachments/assets/e313b1c7-2ca5-4ed7-a5dd-de9a268d36b4" />
+<img width="1014" height="571" alt="image" src="https://github.com/user-attachments/assets/52520b39-325d-4158-b59a-6e079179480d" />
+
 
 
 ---
