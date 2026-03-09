@@ -97,7 +97,7 @@ The revenue chart shows:
 Insight:
 Business appears to be the optimal balance between price and adoption, making it the most commercially effective plan.
 
-| Plan       | Customers | ARPU      | Strategy Signal         |
+| Plan       | Customers | ARPU      | Strategy        |
 | ---------- | --------- | --------- | ----------------------- |
 | Basic      | High      | Low       | Entry-level acquisition |
 | Pro        | High      | Medium    | Core user base          |
